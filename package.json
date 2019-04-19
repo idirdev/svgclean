@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/svgclean",
+  "version": "1.0.0",
+  "description": "Clean and optimize SVG files by removing unnecessary metadata",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/svgclean.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/svgclean.test.js"
+  },
+  "bin": {
+    "svgclean": "bin/cli.js"
+  }
+}
