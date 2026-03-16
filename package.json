@@ -18,5 +18,9 @@
   },
   "bin": {
     "svgclean": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/svgclean",
+  "bugs": {
+    "url": "https://github.com/idirdev/svgclean/issues"
   }
 }
